@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/NewsTech_Project/static/css/main.2ae631de.css",
-    "main.js": "/NewsTech_Project/static/js/main.7bc4ac77.js",
+    "main.js": "/NewsTech_Project/static/js/main.e2453f6f.js",
     "static/js/787.d5fa4d18.chunk.js": "/NewsTech_Project/static/js/787.d5fa4d18.chunk.js",
     "static/media/SpinnerGif.gif": "/NewsTech_Project/static/media/SpinnerGif.279ed7ee69bcffa1003e.gif",
     "index.html": "/NewsTech_Project/index.html",
     "main.2ae631de.css.map": "/NewsTech_Project/static/css/main.2ae631de.css.map",
-    "main.7bc4ac77.js.map": "/NewsTech_Project/static/js/main.7bc4ac77.js.map",
+    "main.e2453f6f.js.map": "/NewsTech_Project/static/js/main.e2453f6f.js.map",
     "787.d5fa4d18.chunk.js.map": "/NewsTech_Project/static/js/787.d5fa4d18.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2ae631de.css",
-    "static/js/main.7bc4ac77.js"
+    "static/js/main.e2453f6f.js"
   ]
 }
