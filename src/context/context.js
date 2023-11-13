@@ -4,7 +4,7 @@ import { reducer } from "../reducer/reducer";
 
 //API
 // const API = "http://hn.algolia.com/api/v1/search?query=html";
-const API = `${process.env.REACT_APP_API}`;
+const API = "http://hn.algolia.com/api/v1/search?";
 
 const AppContext = createContext();
 
